@@ -44,4 +44,5 @@ Thumbs.db
 *.pdf
 *.txt
 !requirements.txt
+!fortune-table.txt
 !README.md
